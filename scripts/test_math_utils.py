@@ -5,3 +5,5 @@ def test_add():
 
 def test_subtract():
     assert subtract(5, 3) == 2
+def sha3bola():
+    assert add(7,5) == 12
