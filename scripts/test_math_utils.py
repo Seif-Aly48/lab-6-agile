@@ -1,9 +1,8 @@
 from scripts.math_utils import add, subtract
 
 def test_add():
-    assert add(2, 3) == 5
+    assert add(2, 4) == 6
 
 def test_subtract():
     assert subtract(5, 3) == 2
-def sha3bola():
-    assert add(7,5) == 12
+
